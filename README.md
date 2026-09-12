@@ -44,13 +44,13 @@ status     : Open to SDE, AI, and Systems roles
 
 ## Honors & Recognition
 
-- **Best Paper Award, 2nd Int'l EAMCON 2026 (Bangkok, Thailand)**: Awarded for research on multi-agent AI architectures for smart agricultural optimization (Taylor & Francis / Routledge). [Certificate](https://drive.google.com/file/d/1qdis00fIDuQxtvTUUMUhXdgxFDyTSBKp/view?usp=sharing)
-- **Amazon ML Summer School (2026)**: Selected in the top 2.2% across India (top 3,000 out of 134,000+ applicants) for hands-on deep learning, NLP, and computer vision training by Amazon Scientists. [Certificate](https://drive.google.com/file/d/1d8mq1KZt9ar3jw2lo90bSWNFE8Aq7Yft/view?usp=sharing)
-- **Smart India Hackathon (SIH)**: Internal Winner in both 2024 and 2025. [Certificate](https://drive.google.com/file/d/1x7EEMUgpkVJukYx5S_IErbzR5d1YnSTo/view?usp=drive_link)
-- **Hack MIT**: 2nd Runner Up (2024) and Top 5 Finalist (2025). [Certificate '24](https://drive.google.com/file/d/1xtzIPWKtifY0Wy99pkCXtRx9_B4tlwHF/view?usp=drive_link) · [Certificate '25](https://drive.google.com/file/d/1sZuKMM27h_yhnNJ83y7WYDxpIH9BswL7/view?usp=drive_link)
-- **3 Scopus-Indexed Publications**: Research across multi-agent AI, DNA-RSA cryptography, and cloud-native architecture (Scopus Author ID: 58614052300).
-- **Intellectual Property**: Registered copyright for Smart Captcha V2 and design patent for a foldable carrom board stand. [Certificate](https://drive.google.com/file/d/1qIIxxtJaHybq4i-XHph_W6ruOqZ_wX_P/view?usp=sharing)
-- **Student Achiever Award 2025-26**: MIT-WPU institutional recognition.
+- **Best Paper Award, 2nd Int'l EAMCON 2026 (Bangkok, Thailand)**: Awarded for research on multi-agent AI architectures for smart agricultural optimization (Taylor & Francis / Routledge). <a href="https://drive.google.com/file/d/1qdis00fIDuQxtvTUUMUhXdgxFDyTSBKp/view?usp=sharing">[Certificate]</a>
+- **Amazon ML Summer School (2026)**: Selected in the top 2.2% across India (top 3,000 out of 134,000+ applicants) for hands-on deep learning, NLP, and computer vision training by Amazon Scientists. <a href="https://drive.google.com/file/d/1d8mq1KZt9ar3jw2lo90bSWNFE8Aq7Yft/view?usp=sharing">[Certificate]</a>
+- **Smart India Hackathon (SIH)**: Internal Winner in both 2024 and 2025. <a href="https://drive.google.com/file/d/1x7EEMUgpkVJukYx5S_IErbzR5d1YnSTo/view?usp=drive_link">[Certificate]</a>
+- **Hack MIT**: 2nd Runner Up (2024) and Top 5 Finalist (2025). <a href="https://drive.google.com/file/d/1xtzIPWKtifY0Wy99pkCXtRx9_B4tlwHF/view?usp=drive_link">[Certificate '24]</a> · <a href="https://drive.google.com/file/d/1sZuKMM27h_yhnNJ83y7WYDxpIH9BswL7/view?usp=drive_link">[Certificate '25]</a>
+- **3 Scopus-Indexed Publications**: Research across multi-agent AI, DNA-RSA cryptography, and cloud-native architecture (Scopus Author ID: 58614052300). <a href="https://www.scopus.com/authid/detail.uri?authorId=58614052300">[Scopus Profile]</a>
+- **Intellectual Property**: Registered copyright for Smart Captcha V2 <a href="https://drive.google.com/file/d/1y0h-Z2mtV5EkIhMYCgH7HaridhDnVxFOoJid/view?usp=drive_link">[Copyright]</a> and design patent for a foldable carrom board stand. <a href="https://drive.google.com/file/d/1qIIxxtJaHybq4i-XHph_W6ruOqZ_wX_P/view?usp=sharing">[Patent]</a>
+- **Student Achiever Award 2025-26**: MIT-WPU institutional recognition. <a href="https://drive.google.com/file/d/13Q0pHnXszwkEMLwTRvLJTKAjV76mWSPv/view?usp=drive_link">[Award]</a>
 
 ---
 
@@ -279,11 +279,11 @@ End-to-end web scraping pipeline gathering passenger reviews across 10 pages of 
 
 ## Research & Publications
 
-> 3 Scopus-indexed papers | [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=58614052300) | Best Paper Award at EAMCON 2026
+> 3 Scopus-indexed papers | [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=58614052300) | Best Paper Award at EAMCON 2026 <a href="https://drive.google.com/file/d/1qdis00fIDuQxtvTUUMUhXdgxFDyTSBKp/view?usp=sharing">[Certificate]</a>
 
 | # | Paper | Venue | Year |
 |---|-------|-------|------|
-| 1 | **Multi-Agent AI Systems for Smart Fertilizer Management & Soil Health Prediction** | EAMCON 2026, Bangkok (Taylor & Francis / Routledge) | 2026 |
+| 1 | **Multi-Agent AI Systems for Smart Fertilizer Management & Soil Health Prediction** <a href="https://drive.google.com/file/d/1qdis00fIDuQxtvTUUMUhXdgxFDyTSBKp/view?usp=sharing">[Certificate]</a> | EAMCON 2026, Bangkok (Taylor & Francis / Routledge) | 2026 |
 | 2 | **Agricultural Automation System to Measure Soil Moisture and NPK Values using IoT** | Grenze Int'l Journal of Engineering and Technology | 2025 |
 | 3 | **Cloud Native Computing: Deploying and Managing Applications with Kubernetes** | Int'l Journal of Computer Engineering and Applications | 2025 |
 | 4 | **Two Layer DNA-RSA Hybrid Cryptosystem** | Int'l Journal of Intelligent Systems and Applications in Engineering (IJISAE) | 2023 |
