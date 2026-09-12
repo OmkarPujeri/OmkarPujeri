@@ -304,12 +304,6 @@ End-to-end web scraping pipeline gathering passenger reviews across 10 pages of 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OmkarPujeri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=ffffff&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00FF99/OmkarPujeri" width="100%" alt="Activity Chart" />
-</div>
-
 ---
 
 <!-- Wave Footer -->
