@@ -11,25 +11,15 @@
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://www.linkedin.com/in/omkar-pujeri/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/omkar-pujeri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:omkarpujeri1604@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logoColor=white" />
-</a>
+<a href="mailto:omkarpujeri1604@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logoColor=white" /></a>
 &nbsp;
-<a href="https://leetcode.com/u/Omkar_Pujeri/">
-  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
+<a href="https://leetcode.com/u/Omkar_Pujeri/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.scopus.com/authid/detail.uri?authorId=58614052300">
-  <img src="https://img.shields.io/badge/Scopus-3%20Papers-FF6C37?style=for-the-badge&logo=scopus&logoColor=white" />
-</a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=58614052300"><img src="https://img.shields.io/badge/Scopus-3%20Papers-FF6C37?style=for-the-badge&logo=scopus&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.mindle.in">
-  <img src="https://img.shields.io/badge/Mindle-Co--Founder-7C3AED?style=for-the-badge&logoColor=white" />
-</a>
+<a href="https://www.mindle.in"><img src="https://img.shields.io/badge/Mindle-Co--Founder-7C3AED?style=for-the-badge&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -75,21 +65,13 @@ status     : Open to SDE, AI, and Systems roles
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1S-Lk0R7as-_OnTpSrSG_s1pI7Cw1cUKr/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</a>
+<a href="https://drive.google.com/file/d/1S-Lk0R7as-_OnTpSrSG_s1pI7Cw1cUKr/view?usp=drive_link"><img src="https://img.shields.io/badge/Oracle-Cloud%20Data%20Science%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1XJLmCvbDxYiUdmTqo5lzVrXsppQzYeiB/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</a>
+<a href="https://drive.google.com/file/d/1XJLmCvbDxYiUdmTqo5lzVrXsppQzYeiB/view?usp=drive_link"><img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 <br/><br/>
-<a href="https://drive.google.com/file/d/1Ztnm5ub1mmqr4XZ66Ut9WIU-UB6vD5XC/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/Oracle-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</a>
+<a href="https://drive.google.com/file/d/1Ztnm5ub1mmqr4XZ66Ut9WIU-UB6vD5XC/view?usp=drive_link"><img src="https://img.shields.io/badge/Oracle-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1_SV6oZGl4r0lhoDY9zfm23vUw1EnstNf/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</a>
+<a href="https://drive.google.com/file/d/1_SV6oZGl4r0lhoDY9zfm23vUw1EnstNf/view?usp=drive_link"><img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 
 </div>
 
@@ -318,27 +300,21 @@ End-to-end web scraping pipeline gathering passenger reviews across 10 pages of 
 ## Live Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarPujeri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=OmkarPujeri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarPujeri&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=OmkarPujeri&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="165" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarPujeri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=ffffff&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OmkarPujeri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=ffffff&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarPujeri&theme=tokyo-night&bg_color=0D1117&color=00FF99&line=00FF99&point=ffffff&hide_border=true&area=true&area_color=00FF9920" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarPujeri&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies" />
+  <img src="https://ghchart.rshah.org/00FF99/OmkarPujeri" width="100%" alt="Activity Chart" />
 </div>
 
 ---
