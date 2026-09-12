@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=Co-Founder+%40+Mindle;AI+Systems+%26+Software+Engineer;Amazon+ML+Summer+School+'26+%7C+Best+Paper+Award;3x+Scopus+Published+Researcher;Open+to+SDE%2C+AI+%26+Full-Stack+Roles" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/omkar-pujeri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" /></a>
@@ -21,14 +21,7 @@
 &nbsp;
 <a href="https://www.mindle.in"><img src="https://img.shields.io/badge/Mindle-Co--Founder-7C3AED?style=for-the-badge&logoColor=white" /></a>
 
-<br/><br/>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=OmkarPujeri&color=00FF99&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
 </div>
-
-<br/>
 
 ---
 
@@ -52,11 +45,11 @@ status     : Open to SDE, AI, and Systems roles
 ## Honors & Recognition
 
 - **Best Paper Award, 2nd Int'l EAMCON 2026 (Bangkok, Thailand)**: Awarded for research on multi-agent AI architectures for smart agricultural optimization (Taylor & Francis / Routledge). [Certificate](https://drive.google.com/file/d/1qdis00fIDuQxtvTUUMUhXdgxFDyTSBKp/view?usp=sharing)
-- **Amazon ML Summer School (2026)**: Selected in the top 2.2% across India (top 3,000 out of 134,000+ applicants) for hands-on deep learning, NLP, and computer vision training by Amazon Scientists.
+- **Amazon ML Summer School (2026)**: Selected in the top 2.2% across India (top 3,000 out of 134,000+ applicants) for hands-on deep learning, NLP, and computer vision training by Amazon Scientists. [Certificate](https://drive.google.com/file/d/1d8mq1KZt9ar3jw2lo90bSWNFE8Aq7Yft/view?usp=sharing)
 - **Smart India Hackathon (SIH)**: Internal Winner in both 2024 and 2025. [Certificate](https://drive.google.com/file/d/1x7EEMUgpkVJukYx5S_IErbzR5d1YnSTo/view?usp=drive_link)
-- **Hack MIT**: 2nd Runner Up (2024) [Certificate](https://drive.google.com/file/d/1xtzIPWKtifY0Wy99pkCXtRx9_B4tlwHF/view?usp=drive_link) and Top 5 Finalist (2025). [Certificate](https://drive.google.com/file/d/1sZuKMM27h_yhnNJ83y7WYDxpIH9BswL7/view?usp=drive_link)
+- **Hack MIT**: 2nd Runner Up (2024) and Top 5 Finalist (2025). [Certificate '24](https://drive.google.com/file/d/1xtzIPWKtifY0Wy99pkCXtRx9_B4tlwHF/view?usp=drive_link) · [Certificate '25](https://drive.google.com/file/d/1sZuKMM27h_yhnNJ83y7WYDxpIH9BswL7/view?usp=drive_link)
 - **3 Scopus-Indexed Publications**: Research across multi-agent AI, DNA-RSA cryptography, and cloud-native architecture (Scopus Author ID: 58614052300).
-- **Intellectual Property**: Registered copyright for Smart Captcha V2 and [design patent](https://drive.google.com/file/d/1qIIxxtJaHybq4i-XHph_W6ruOqZ_wX_P/view?usp=sharing) for a foldable carrom board stand.
+- **Intellectual Property**: Registered copyright for Smart Captcha V2 and design patent for a foldable carrom board stand. [Certificate](https://drive.google.com/file/d/1qIIxxtJaHybq4i-XHph_W6ruOqZ_wX_P/view?usp=sharing)
 - **Student Achiever Award 2025-26**: MIT-WPU institutional recognition.
 
 ---
